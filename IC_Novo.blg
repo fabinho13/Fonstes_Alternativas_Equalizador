@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: IC_Novo.aux
+The style file: ieeetr.bst
+Database file #1: IC_Novo.bib
+You're missing a field part---line 18 of file IC_Novo.bib
+ :   number  = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 30 of file IC_Novo.bib
+ :   number  = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 42 of file IC_Novo.bib
+ :   number  = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 54 of file IC_Novo.bib
+ :   number  = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 92 of file IC_Novo.bib
+ :   year      = 
+ :               ,
+I'm skipping whatever remains of this entry
+Warning--empty publisher in mecanica_dos_fluidos
+Warning--empty year in mecanica_dos_fluidos
+Too many commas in name 1 of "Mohamed Daowd, Noshin Omar, Peter Van Den Bossche, Joeri Van Mierlo" for entry energy_figure
+while executing---line 969 of file ieeetr.bst
+You've used 9 entries,
+            1876 wiz_defined-function locations,
+            518 strings with 4699 characters,
+and the built_in function-call counts, 1325 in all, are:
+= -- 122
+> -- 36
+< -- 0
++ -- 18
+- -- 9
+* -- 73
+:= -- 209
+add.period$ -- 11
+call.type$ -- 9
+change.case$ -- 5
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 79
+empty$ -- 155
+format.name$ -- 9
+if$ -- 313
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 6
+newline$ -- 32
+num.names$ -- 9
+pop$ -- 32
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 30
+stack$ -- 0
+substring$ -- 28
+swap$ -- 19
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 11
+width$ -- 10
+write$ -- 77
+(There were 6 error messages)

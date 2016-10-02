@@ -1,0 +1,29 @@
+\select@language {portuguese}
+\contentsline {section}{\numberline {1}\textit {Descri\IeC {\c c}\IeC {\~a}o das Capas}}{6}{section.1}
+\contentsline {subsubsection}{\numberline {1.0.1}\textit {Capa 1 : Abertura do Trabalho}}{6}{subsubsection.1.0.1}
+\contentsline {subsubsection}{\numberline {1.0.2}\textit {Capa 2 : Conjunto de Geradores E\IeC {\'o}licos}}{6}{subsubsection.1.0.2}
+\contentsline {subsubsection}{\numberline {1.0.3}\textit {Capa 3 : Simula\IeC {\c c}\IeC {\~a}o da Colis\IeC {\~a}o H\IeC {\'e}lice com Fluido}}{6}{subsubsection.1.0.3}
+\contentsline {subsubsection}{\numberline {1.0.4}\textit {Capa 4 : Roteamento de Placas em V\IeC {\'a}rias Camadas}}{6}{subsubsection.1.0.4}
+\contentsline {section}{\numberline {2}Fontes Alternativas de Energia}{7}{section.2}
+\contentsline {section}{\numberline {3}Equalizadores de Tens\IeC {\~a}o}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}M\IeC {\'e}todo Passivo}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}M\IeC {\'e}todo Ativo}{12}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Fixed Shunting Resistor}{12}{subsection.3.3}
+\contentsline {section}{\numberline {4}M\IeC {\'e}todos Passivos}{13}{section.4}
+\contentsline {subsection}{\numberline {4.1}M\IeC {\'e}todos Pelos Capacitores de Shunting}{13}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Capacitor Chaveado}{14}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Capacitor \IeC {\'U}nico Chaveado}{14}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Capacitor Duplo Chaveado}{14}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Modulariza\IeC {\c c}\IeC {\~a}o Por Baterias}{16}{subsection.4.5}
+\contentsline {section}{\numberline {5}Ultracapacitores}{18}{section.5}
+\contentsline {subsection}{\numberline {5.1}Modelos Circuitais de Ultracapacitores}{19}{subsection.5.1}
+\contentsline {section}{\numberline {6}Simula\IeC {\c c}\IeC {\~o}es}{22}{section.6}
+\contentsline {subsection}{\numberline {6.1}Topologia Resistor Shunting N\IeC {\~a}o Chaveado}{22}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Topologia Resistor Shunting Chaveado}{23}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Capacitor Chaveado}{25}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Capacitor \IeC {\'U}nico Chaveado}{26}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Capacitor Duplo Chaveado}{28}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}Modula\IeC {\c c}\IeC {\~a}o Por Baterias}{29}{subsection.6.6}
+\contentsline {section}{\numberline {7}Constru\IeC {\c c}\IeC {\~a}o e An\IeC {\'a}lise do Equalizador de Tens\IeC {\~a}o Proposto no Presente Trabalho}{33}{section.7}
+\contentsline {subsection}{\numberline {7.1}Constru\IeC {\c c}\IeC {\~a}o do Componente}{34}{subsection.7.1}
+\contentsline {section}{\numberline {8}Conclus\IeC {\~a}o}{37}{section.8}
