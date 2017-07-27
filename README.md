@@ -1,14 +1,18 @@
 # Fonstes_Alternativas_Equalizador
 Simulação e projeto de um equalizador de tensão.
 
-It was my primary cientific iniciation on eletrical engineering and the work can be adjust relation to this citation and correction in 
-writing, and in Technical  way there is a great job to do, that i wasn't make due to my inexperienced in microcontrollers.
+Trabalho que se relaciona com uma das grandes áreas da engeharia elétrica. As fontes alternativas de energia são necessárias devido ao crescimento econômico relacionado com o danos ambientais causados por fontes de energia poluidoras. Este trabalho cobre sobre as fontes de energia alternativas dando mais ênfase ao aspectos solar porém não deixando a tona outras fontes discretamente usadas.
 
-Each of those equalizer topology have to has one ways of keys that make the system to be more efficiently, and it necessity to make some 
-study of ways to switch each topology, what make necessary a use of microcontroler to take the voltage of ultracapacitors and 
-make a choice of the better way of switch each topology.
+O trabalho não cobre aspectos ambientais, citando apenas um artigo.
 
-Making this simulations, and including the voltage equalizer that is proposed on the work, it turns on a great job, serving to be themes
-of others great job.
+A proposta é construir um equalizador de tensão para um ultra-capacitor, necessário devido a uma grande quantidade de fatores, sendo, o principal deles a equalização de tensão nos terminais do ultr-capacitor --entende-se como equalização que as tensões nos diversos capacitores que formam o banco ultracapacitivo estão proximas umas das outras, pois isto eleva a capacidade deste de armazenar a ernergia armazenada--.
 
-Each topology in the work can be sending for me just asking me on a email : fabiano.marino@usp.br
+Teve-se como foco de estudo:
+Fontes alternativas.
+Métodos de equalização e topologias equalizadoras com simulação no proteus das cabíiveis. 
+Estudo de ultracapacitores.
+PCB laytout.
+
+#Obseravação.
+
+Um ponto a se retocar no projeto é o das topologias equalizadoras: pode-se colocar um voltimetro em cada célula e efetuar o controle das chaves que formam a topologia do circuito. Após isto encontrar meios de chavear cada topologia de modo a encontrar um ponto máximo para rapidez de equalização.
