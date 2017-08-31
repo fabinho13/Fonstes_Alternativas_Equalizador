@@ -1,7 +1,7 @@
 # Fonstes_Alternativas_Equalizador
 Simulação e projeto de um equalizador de tensão.
 
-Trabalho que se relaciona com uma das grandes áreas da engeharia elétrica. As fontes alternativas de energia são necessárias devido ao crescimento econômico mais os ambientais causados por fontes de energia poluidoras. Este trabalho cobre sobre as fontes de energia alternativas dando mais ênfase ao aspectos solar porém não deixando de lado outras fontes discretamente usadas.
+Trabalho que se relaciona com uma das grandes áreas da engeharia elétrica. As fontes alternativas de energia são necessárias devido ao crescimento econômico mais os danos ambientais causados por fontes de energia poluidoras. Este trabalho cobre sobre as fontes de energia alternativas dando mais ênfase ao aspectos solar porém não deixando de lado outras fontes discretamente usadas.
 
 O trabalho não cobre aspectos ambientais, citando apenas um artigo.
 
