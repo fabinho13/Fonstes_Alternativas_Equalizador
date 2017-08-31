@@ -1,15 +1,15 @@
 # Fonstes_Alternativas_Equalizador
 Simulação e projeto de um equalizador de tensão.
 
-Trabalho que se relaciona com uma das grandes áreas da engeharia elétrica. As fontes alternativas de energia são necessárias devido ao crescimento econômico relacionado com o danos ambientais causados por fontes de energia poluidoras. Este trabalho cobre sobre as fontes de energia alternativas dando mais ênfase ao aspectos solar porém não deixando a tona outras fontes discretamente usadas.
+Trabalho que se relaciona com uma das grandes áreas da engeharia elétrica. As fontes alternativas de energia são necessárias devido ao crescimento econômico mais os ambientais causados por fontes de energia poluidoras. Este trabalho cobre sobre as fontes de energia alternativas dando mais ênfase ao aspectos solar porém não deixando de lado outras fontes discretamente usadas.
 
 O trabalho não cobre aspectos ambientais, citando apenas um artigo.
 
-A proposta é construir um equalizador de tensão para um ultra-capacitor, necessário devido a uma grande quantidade de fatores, sendo, o principal deles a equalização de tensão nos terminais do ultr-capacitor --entende-se como equalização que as tensões nos diversos capacitores que formam o banco ultracapacitivo estão proximas umas das outras, pois isto eleva a capacidade deste de armazenar a ernergia armazenada--.
+A proposta é construir um equalizador de tensão para um ultra-capacitor, necessário devido a uma grande quantidade de fatores, sendo, o principal deles a equalização de tensão nos terminais do ultra-capacitor --entende-se como equalização que as tensões nos diversos capacitores que formam o banco ultracapacitivo estão proximas umas das outras, pois isto eleva a capacidade deste de armazenar a ernergia--.
 
 Teve-se como foco de estudo:
 Fontes alternativas.
-Métodos de equalização e topologias equalizadoras com simulação no proteus das cabíiveis. 
+Métodos de equalização e topologias equalizadoras com simulação no proteus, limitando-se as possíveis de serem simuladas.
 Estudo de ultracapacitores.
 PCB laytout.
 
